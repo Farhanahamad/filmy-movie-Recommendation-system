@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite Database and Zip
+data/ml-latest-small.zip
+data/users.db
+
+# Streamlit config / cache
+.streamlit/
+.streamlit/config.toml
+
+# OS Files
+.DS_Store
+Thumbs.db
